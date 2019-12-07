@@ -33,7 +33,10 @@ datasets.
 
 ## Built With
 
-* [Visual Studio Code](https://jupyter.org/) - The IDE used
+* [Jupyter Notebook](https://jupyter.org/) - The IDE used
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
 * [pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [pytorch](https://pytorch.org/)
