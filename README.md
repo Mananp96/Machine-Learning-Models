@@ -19,4 +19,15 @@
 	-It will start executing each jupyter notebook sequentially, a 
 	 message regarding which current dataset model is being executed
 
-#### 2. To see the results, please check each jupyter notebook after it completes its execution. 
+#### 2. To see the results, please check each jupyter notebook after it completes its execution.
+
+ #### Built With
+
+* [Jupyter Notebook](https://jupyter.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+* [NumPy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [pytorch](https://pytorch.org/)
+
