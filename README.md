@@ -1,6 +1,6 @@
 # Machine-Learning-Project COMP 6321
 
-### IDE used: jupyter notebook.
+#### IDE used: jupyter notebook.
 ```
 /classification-models/
 	 10 jupyter notebooks per classification dataset each named as model.ipynb
@@ -13,10 +13,10 @@
 	dataset/ - please put the CIFAR10 dataset inside this folder
 	
 ```
-### 1. To run the entire project run following python script:
+#### 1. To run the entire project run following python script:
 	type this command in terminal: python main.py
 	
 	-It will start executing each jupyter notebook sequentially, a 
 	 message regarding which current dataset model is being executed
 
-### 2. To see the results, please check each jupyter notebook after it completes its execution. 
+#### 2. To see the results, please check each jupyter notebook after it completes its execution. 
