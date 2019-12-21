@@ -1,4 +1,4 @@
-# Machine-Learning-Project COMP 6321
+# Machine learning models on various 21 datasets (from UCI and Kaggle)
 
 #### IDE used: jupyter notebook.
 ```
