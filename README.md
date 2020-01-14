@@ -26,8 +26,8 @@ Preprocessed the data, split dataset into training and test set, if required and
 
 #### 2. To see the results, please check each jupyter notebook after it completes its execution.
 
- #### Built With
-
+ #### Tech Stack
+* [Python 3](https://www.python.org/)
 * [Jupyter Notebook](https://jupyter.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
