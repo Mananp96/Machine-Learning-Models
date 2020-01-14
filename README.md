@@ -1,5 +1,10 @@
 # Machine learning models on various 21 datasets (from UCI and Kaggle)
+The project is based on datasets from various sectors namely finance, health, industrial, crime, education, social media, biology, product and multimedia from the UCI repository and Kaggle.
+Preprocessed the data, split dataset into training and test set, if required and finally transformed it.
 
+- Trained and evaluated 8 classification methods across 10 classification datasets, 7 regression methods across 10 regression datasets and 2 classification methods (Convolutional Neural Network and Decision Tree Classifier) on an image classification dataset (CIFAR10).
+
+- Used selected hyperparameters to search over and find the best combination of them using Grid Search and Randomized Search as required to improve model’s accuracy.
 #### IDE used: jupyter notebook.
 ```
 /classification-models/
