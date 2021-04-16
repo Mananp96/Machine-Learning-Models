@@ -1,4 +1,4 @@
-# Machine learning models on various 21 datasets (from UCI and Kaggle)
+# Machine learning models, 21 datasets (from UCI and Kaggle)
 The project is based on datasets from various sectors namely finance, health, industrial, crime, education, social media, biology, product and multimedia from the UCI repository and Kaggle.
 Preprocessed the data, split dataset into training and test set, if required and finally transformed it.
 
